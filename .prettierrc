@@ -1,0 +1,11 @@
+{
+  "useTabs": true,
+  "tabWidth": 2,
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "semi": false,
+  "plugins": [
+    "prettier-plugin-tailwindcss"
+  ],
+  "TailwindConfig": "./tailwind.config.js"
+}
